@@ -1,1 +1,1 @@
-A python project I made in pycharm (an IDE) using multiple packages (sklearn,scipy,numpy etc.) where I generate two similar sets of code then use those python packages to analyze, model, and then compare the two sets of data to tell me they are similar 
+A python project I made in pycharm (an IDE) using multiple packages (sklearn,scipy,numpy etc.) where I generate two similar sets of data then use those python packages to analyze, model, and then compare the two sets of data to tell me they are similar 
